@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: rdacrrepo7.azurecr.io/rahul/docker-spring-boot
+  repository: rdacrrepo7.azurecr.io/rzayn19/rdakshelm
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
